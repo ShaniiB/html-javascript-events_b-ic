@@ -2,7 +2,7 @@
    console.log("Ready to Go!");  
 // prepare desired element(s) with DOM
 let entireBody = document.getElementById('body');
-entireBody.style.backgroundColor = "orange";
+entireBody.style.backgroundColor = "white";
    console.log("Backgroundcolor is white");
 let onebutton = document.getElementById('onebutton');   
 let twobutton = document.getElementById('twobutton');   
